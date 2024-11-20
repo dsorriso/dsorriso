@@ -22,6 +22,6 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor web apaixonado por criar
 ## 📫 Como me encontrar
 
 - 🌐 Portfólio: [Meu Portfólio](https://portfoliodanielmarcelino.netlify.app/)
-- 📧 Email: [daniel.marcelino198@gmail.com](daniel.marcelino198@gmail.com)
+- 📧 Email: [daniel.marcelino198@gmail.com](mailto:daniel.marcelino198@gmail.com)
 - 📸 Instagram: [@dsorriso_](https://instagram.com/dsorriso_)
 
